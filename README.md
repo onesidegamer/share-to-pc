@@ -1,8 +1,5 @@
-# TrebleShot libre software file and text sharing app
-Send and receive files over available connections. [FAQ](https://github.com/genonbeta/TrebleShot/blob/master/FAQ.md).
 
-## Get it on
-[<img src="https://f-droid.org/badge/get-it-on.png" width="230">](https://f-droid.org/packages/com.genonbeta.TrebleShot/) [<img src="assets/google-play-badge.png" width="230">](https://play.google.com/store/apps/details?id=com.genonbeta.TrebleShot)
+Send and receive files over available connections. [FAQ](https://github.com/onesidegamer/raitshare/blob/master/FAQ.md).
 
 ## Main features
 * Pause, resume and reconnect transfers
@@ -17,8 +14,8 @@ Send and receive files over available connections. [FAQ](https://github.com/geno
 * Advanced features: Network change handling, choose network based on measured speed
 
 ## Project status
-[![Build Status](https://travis-ci.org/genonbeta/TrebleShot.svg)](https://travis-ci.org/genonbeta/TrebleShot)
-[![Translation Status](https://hosted.weblate.org/widgets/trebleshot/-/svg-badge.svg)](https://hosted.weblate.org/engage/trebleshot/)
+[![Build Status](https://travis-ci.org//onesidegamer/raitshare.svg)](https://travis-ci.org//onesidegamer/raitshare)
+[![Translation Status](https://hosted.weblate.org/widgets/raitshare/-/svg-badge.svg)](https://hosted.weblate.org/engage/raitshare)
 
 ## Build from source
 Required tools;
